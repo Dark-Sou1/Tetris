@@ -4,7 +4,7 @@ import time
 import os
 import matrix
 from pynput import keyboard
-from colorama import Fore, Back
+from colorama import Back
 #================================
 
 
